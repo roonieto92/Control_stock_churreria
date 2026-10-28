@@ -6,7 +6,7 @@ Integrante: Nieto, Rocio.
 
 El módulo de control de stock esta pensado para registrar movimientos de materias primas en las cocinas de dicho local, y generar un pedido automático a sus proveedores.
 
-4.	Mecanismos de Control y Uso Crítico de Herramientas: 
+Mecanismos de Control y Uso Crítico de Herramientas: 
 En la entrega 2 del TPI se establecieron los siguientes, objetivo y metas
 “Objetivo: Realizar un módulo de control de stock para churrería “Tamara” que permita al usuario ingresar que cantidad de insumos se usa, y, ante la baja de cierta cantidad establecida de los productos genere un pedido automático para enviar al proveedor correspondiente.
 Metas: 
